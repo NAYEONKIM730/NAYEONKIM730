@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm NAYEON </h1>
 
-<!--
-**NAYEONKIM730/NAYEONKIM730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔔 About me 
+- 🤔 Live in South Korea.
+- 🌱 I'm currently learning **Data Analysis and English**.
+- 🤔 My hobbies are **playing games and tennis**.
+- 💬 If you have any questions, just ask me.
+- 📫 kimnh3984@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+> skills
+
+- 💻 DB：![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle) ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+
+- 🌱 Learning：![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
